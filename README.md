@@ -25,3 +25,5 @@ hello, my name is mariyam 🩷 & i'm currently a computer science student in web
 <p align="center">
   <img src="https://giffiles.alphacoders.com/136/136815.gif">
 </p>
+
+<p align="center"> 𝘐𝘕 𝘛𝘏𝘌 𝘕𝘈𝘔𝘌 𝘖𝘍 𝘛𝘏𝘌 𝘔𝘖𝘖𝘕, 𝘐'𝘓𝘓 𝘗𝘜𝘕𝘐𝘚𝘏 𝘠𝘖𝘜 </p>
