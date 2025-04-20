@@ -20,7 +20,7 @@ hello, my name is mariyam 🩷 & i'm currently a computer science student in web
 - c# with unity2D and unity3D
 
 ## frameworks i've worked with
-- laravel : php framework used for the front-end & back-end for creating websites
+- laravel : php framework used in front-end & back-end for creating websites
 
 ## other skills
 - linux : able to use & manage the operating system
