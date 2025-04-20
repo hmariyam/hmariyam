@@ -11,9 +11,13 @@ hello, my name is mariyam 🩷 & i'm currently a computer science student in web
 - php : back-end for creating websites (OOP included)
 - javaScript : back-end for creating websites, scripting included for error handling
 - sql : managing scripts depending on certain conditions
+- java : back-end for creating interfaces & websites (OOP included)
+- javaFX : front-end for creating interfaces
 
-## currently learning
-- java & javaFX : back-end & front-end; mostly for interfaces (OOP included)
+## currently learning (languages & frameworks)
+- java EE, springboot, angular & typescript (back-end)
+- kotlin with android studio (front-end & back-end)
+- c# with unity2D and unity3D
 
 ## frameworks i've worked with
 - laravel : php framework used for the front-end & back-end for creating websites
