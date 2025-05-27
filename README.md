@@ -9,20 +9,24 @@ hello, my name is mariyam 🩷 & i'm currently a computer science student in web
 - html : front-end for creating websites
 - css : front-end for creating websites
 - php : back-end for creating websites (OOP included)
-- javaScript : back-end for creating websites, scripting included for error handling
+- javascript : back-end for creating websites, scripting included for error handling
 - sql : managing scripts depending on certain conditions
 - java : back-end for creating interfaces & websites (OOP included)
 - javaFX : front-end for creating interfaces
+- c# : back-end game development in unity2D and unity3D
+- kotlin : front-end and back-end for creating mobile applications (android studio)
+- typescript : front-end and back-end
 
 ## currently learning (languages & frameworks)
-- java EE, springboot, angular & typescript (back-end)
-- kotlin with android studio (front-end & back-end)
-- c# with unity2D and unity3D
+- ...
 
 ## frameworks i've worked with
 - laravel : php framework used in front-end & back-end for creating websites
+- springboot : java framework used in back-end for creating websites
+- angular : typescript framework used in front-end and back-end for creating websites
 
 ## other skills
+- java EE : able to use to create front-end and back-end for websites
 - linux : able to use & manage the operating system
 
 <p align="center"> ⋆𐙚₊˚⊹ ♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊ </p>
