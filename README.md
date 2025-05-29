@@ -20,7 +20,7 @@ hello, my name is mariyam 🩷 & i'm currently a computer science student in web
 ## currently learning (languages & frameworks)
 - ...
 
-## frameworks i've worked with
+## frameworks i've learned
 - laravel : php framework used in front-end & back-end for creating websites
 - springboot : java framework used in back-end for creating websites
 - angular : typescript framework used in front-end and back-end for creating websites
