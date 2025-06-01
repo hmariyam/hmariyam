@@ -12,6 +12,7 @@ hello, my name is mariyam 🩷 & i'm currently a computer science student in web
 - javascript : back-end for creating websites, scripting included for error handling
 - sql : managing scripts depending on certain conditions
 - java : back-end for creating interfaces & websites (OOP included)
+- java EE : able to use to create front-end and back-end for websites
 - javaFX : front-end for creating interfaces
 - c# : back-end game development in unity2D and unity3D
 - kotlin : front-end and back-end for creating mobile applications (android studio)
@@ -26,7 +27,6 @@ hello, my name is mariyam 🩷 & i'm currently a computer science student in web
 - angular : typescript framework used in front-end and back-end for creating websites
 
 ## other skills
-- java EE : able to use to create front-end and back-end for websites
 - linux : able to use & manage the operating system
 
 <p align="center"> ⋆𐙚₊˚⊹ ♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊˚⊹♡ ⋆𐙚₊ </p>
