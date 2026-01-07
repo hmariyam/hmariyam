@@ -20,14 +20,13 @@ hello, my name is mariyam 🩷 & i'm currently a computer science student in web
 - typescript : front-end and back-end
 
 ## currently learning (languages & frameworks)
-- c# for web applications
-- deepening my knowledge on kotlin
-- python for api rest
+...
 
 ## frameworks i've learned
 - laravel : php framework used in front-end & back-end for creating websites
 - springboot : java framework used in back-end for creating websites
 - angular : typescript framework used in front-end and back-end for creating websites
+- fastapi : web framework used for creating api rests
 
 ## other skills
 - linux : able to use & manage the operating system
