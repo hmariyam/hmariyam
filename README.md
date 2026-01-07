@@ -23,10 +23,11 @@ hello, my name is mariyam 🩷 & i'm currently a computer science student in web
 ...
 
 ## frameworks i've learned
-- laravel : php framework used in front-end & back-end for creating websites
-- springboot : java framework used in back-end for creating websites
-- angular : typescript framework used in front-end and back-end for creating websites
-- fastapi : web framework used for creating api rests
+- laravel — PHP framework used for building full‑stack web applications (backend‑focused with Blade templates for the frontend)
+- spring boot — java framework used for creating robust backend services and enterprise‑level applications
+- angular — typeScript framework used for building dynamic, component‑based frontend applications (can also interact with backend APIs)
+- ASP.NET Core — c# framework for building modern, high‑performance web applications and APIs
+- fastAPI — python web framework used to create fast, efficient REST APIs
 
 ## other skills
 - linux : able to use & manage the operating system
